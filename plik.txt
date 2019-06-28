@@ -1,1 +1,2 @@
 plik - line n 1
+plik - line n 2
